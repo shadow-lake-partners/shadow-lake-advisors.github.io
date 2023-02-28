@@ -11589,7 +11589,7 @@ body {
   letter-spacing: 0.8rem;
 /*   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0)); */
 /*  background: rgba(255, 255, 255, .9);*/
-background: rgba(5, 5, 5, .9);
+  background: rgba(0, 0, 0, .9);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
@@ -11597,6 +11597,7 @@ background: rgba(5, 5, 5, .9);
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
   font-size: 1rem;
+  background: rgba(0, 0, 0, .9);
 }
 @media (min-width: 768px) {
   .masthead h1, .masthead .h1 {
