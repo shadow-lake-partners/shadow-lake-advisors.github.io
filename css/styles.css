@@ -11589,6 +11589,7 @@ body {
   letter-spacing: 0.8rem;
 /*   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0)); */
 /*  background: rgba(255, 255, 255, .9);*/
+background: rgba(5, 5, 5, .9);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
